@@ -1,1 +1,2 @@
-# LIFModel
+# Leaky Integrate-and-Fire Model
+
